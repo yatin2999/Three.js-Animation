@@ -1,6 +1,8 @@
 # Three.js Frog Skeleton Animation
 This project is a React application that uses Three.js to animate a frog skeleton imported from Blender. The frog skeleton is saved in the glTF format and then animated to perform different actions. The application also utilizes React components and controls for a better user experience.
 
+![image info](./sampleScreenshot.png)
+
 ## Getting Started
 To get started with the project, follow the instructions below:
 
